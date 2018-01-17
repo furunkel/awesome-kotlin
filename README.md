@@ -363,6 +363,7 @@ Here awesome badge for your project:
 * [spoptchev/scientist](https://github.com/spoptchev/scientist) - A kotlin library for refactoring code. Port of GitHub's scientist.
 * [soywiz/klock](https://github.com/soywiz/klock) - Consistent and portable date and time utilities for multiplatform kotlin (JVM, JS and Common).
 * [d-max/dsl-logger](https://github.com/d-max/dsl-logger) - Simple DSL for logging with logger abstraction layer
+* [evoasm/kasm](https://github.com/evoasm/kasm) - x64/x86-64 assembler and execution library 
 
 ### <a name="libraries-frameworks-extensions"></a>Extensions <sup>[Back ⇈](#libraries-frameworks-extensions-subcategory)</sup>
 * [Kotlin/kotlinx.support](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
